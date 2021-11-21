@@ -319,8 +319,8 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/DevsZone"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/Discovery_Updates")
+                        InlineKeyboardButton("Movies Group", url="https://t.me/onlymovie76"),
+                        InlineKeyboardButton("Series Group", url="https://t.me/TvSeriesLand4U")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
