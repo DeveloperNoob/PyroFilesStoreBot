@@ -32,9 +32,9 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🧑🏻 **Developer:** @JackBro007
 
-🎬 **Movie Group:** [𝐎𝐧𝐥𝐲𝐦𝐨𝐯𝐢𝐞76](https://t.me/onlymovie76)
+🎬 **Movie Group:** [onlymovie76](https://t.me/onlymovie76)
 
-📺 **Series Group:** [𝐓𝐯𝐬𝐞𝐫𝐢𝐞𝐬𝐋𝐚𝐧𝐝4𝐔](https://t.me/TvSeriesLand4U)
+📺 **Series Group:** [TvSeriesLand4U](https://t.me/TvSeriesLand4U)
 """
 	ABOUT_DEV_TEXT = f"""
 
@@ -42,7 +42,7 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
 
-[Donate Now](https://www.paypal.me/AbirHasan2005) (PayPal)
+[Join Here](https://t.me/M76Links) (Updates)
 """
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
