@@ -30,20 +30,20 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍ **Owner:** @JackBro007
+🧑🏻‍💻 **Developer:** @AbirHasan2005
 
-🎬 **Movie Group:** [Linux Repositories](https://t.me/onlymovie76)
+👥 **Support Group:** [Linux Repositories](https://t.me/DevsZone)
 
-📺 **Series Group:** [Discovery Projects](https://t.me/TvSeriesLand4U)
+📢 **Updates Channel:** [Discovery Projects](https://t.me/Discovery_Updates)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍ **Owner:** @Jackbro007
+🧑🏻‍💻 **Developer:** @AbirHasan2005
 
-You Want Series Join Here @TvSeriesLand4U.
+Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.
 
 Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
 
-
+[Donate Now](https://www.paypal.me/AbirHasan2005) (PayPal)
 """
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
